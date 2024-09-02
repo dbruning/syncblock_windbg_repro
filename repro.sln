@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{A8C046FE-D732-4CA3-AAA3-C135A8B81B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console", "console\console.csproj", "{F2EA9687-9E5C-44ED-AC5C-D5D29D671147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2EA9687-9E5C-44ED-AC5C-D5D29D671147}.Debug|x64.ActiveCfg = Debug|x64
+		{F2EA9687-9E5C-44ED-AC5C-D5D29D671147}.Debug|x64.Build.0 = Debug|x64
+		{A8C046FE-D732-4CA3-AAA3-C135A8B81B71}.Debug|x64.ActiveCfg = Debug|x64
+		{A8C046FE-D732-4CA3-AAA3-C135A8B81B71}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+EndGlobal
